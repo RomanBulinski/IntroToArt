@@ -1,0 +1,2 @@
+# IntroToArt
+Code Wars kata
